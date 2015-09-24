@@ -1,3 +1,3 @@
-# agnostechvalley.github.io
+# AgnosTechValley Website
 
-Website for the AgnosTechValley meetup.
+Refer to the website for details [https://agnostechvalley.com](https://agnostechvalley.com)
