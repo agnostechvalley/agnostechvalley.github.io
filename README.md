@@ -1,3 +1,3 @@
 # AgnosTechValley Website
 
-Refer to the website for details [https://agnostechvalley.com](https://agnostechvalley.com)
+Refer to the website for details [http://agnostechvalley.com](http://agnostechvalley.com)
