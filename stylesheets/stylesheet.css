@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: #000 url(http://blainsmith.com/assets/article_images/require-node-modules.jpg) no-repeat 0 0; }
+  background-color: #000; }
 
 @media screen and (min-width: 64em) {
   .page-header {
