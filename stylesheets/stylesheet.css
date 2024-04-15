@@ -14,7 +14,15 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+.contact-organizer a {
+		border: 1px solid #ffffff;
+		margin: 8px 4px 8px 4px;
+		padding: 8px;
+		color: #ffffff;
+		text-decoration: none; }
+	.contact-organizer a:hover {
+			color: #000000;
+			background-color: #ffffff; }
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
